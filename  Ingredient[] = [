@@ -1,0 +1,48 @@
+[33mcommit 006f52f9169d43d0e6d203b62b812c77f178fa6e[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/leccion10[m[33m, [m[1;31morigin/feature/leccion10[m[33m)[m
+Author: Carolina Zapata <cvzapata@minsait.com>
+Date:   Wed Mar 17 16:41:53 2021 +0100
+
+    Servicio de recetas completo para eliminar comunicación con eventos
+
+[33mcommit dbc3be36e2f4f2a59318a9cbd855e9746cf5b78b[m[33m ([m[1;32mdevelop[m[33m)[m
+Author: Carolina Zapata <cvzapata@minsait.com>
+Date:   Wed Mar 17 13:15:23 2021 +0100
+
+    Nueva directiva para hacer los menús dropdown
+
+[33mcommit e4483da7e15d4e5c11c4746d40a63b3d76212ef0[m[33m ([m[1;31morigin/develop[m[33m)[m
+Merge: d04b6b7 7030dfc
+Author: Carolina Zapata <cvzapata@minsait.com>
+Date:   Wed Mar 17 11:09:04 2021 +0100
+
+    Merge branch 'feature/leccion6' into develop
+
+[33mcommit 7030dfc19dda9bf5cc211f3af1f297b47b50c385[m
+Author: Carolina Zapata <cvzapata@minsait.com>
+Date:   Wed Mar 17 11:05:08 2021 +0100
+
+    Añadir ingredientes a la lista de la compra
+
+[33mcommit c6646344da13c30905dd9efe5c0aef39c2b5e1ef[m
+Author: Carolina Zapata <cvzapata@minsait.com>
+Date:   Wed Mar 17 10:22:27 2021 +0100
+
+    Mostar detalle de una receta al pulsar sobre elementos de la lista
+
+[33mcommit bc1d23751e7266498d70a99612ef1db8d2cdb882[m
+Author: Zapata Cardozo <cvzapata@minsait.com>
+Date:   Wed Mar 17 09:44:22 2021 +0100
+
+    Navegación de la página con ngIf para mostrar componente seleccionado
+
+[33mcommit d04b6b7c01d954fef6bd1ab100678ed5e4504a50[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Zapata Cardozo <cvzapata@minsait.com>
+Date:   Wed Mar 17 08:56:29 2021 +0100
+
+    Primer commit
+
+[33mcommit ce94f51558edf96a360b27a4419d441def97c75c[m
+Author: Zapata Cardozo <cvzapata@minsait.com>
+Date:   Tue Mar 16 10:59:33 2021 +0100
+
+    initial commit
